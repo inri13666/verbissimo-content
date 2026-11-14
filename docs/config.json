@@ -1,0 +1,44 @@
+{
+  "configVersion": 1,
+  "generatedAt": "2026-11-14T21:13:59Z",
+  "ttlSeconds": 3600,
+  "app": {
+    "ios": {
+      "minVersion": "0.1.0",
+      "latestVersion": "0.1.0",
+      "storeUrl": "https://apps.apple.com/app/id0000000000"
+    },
+    "android": {
+      "minVersion": "0.1.0",
+      "latestVersion": "0.1.0",
+      "storeUrl": "https://play.google.com/store/apps/details?id=app.verbissimo"
+    },
+    "windows": {
+      "minVersion": "0.1.0",
+      "latestVersion": "0.1.0",
+      "storeUrl": "https://verbissimo.akuma.in/download/windows"
+    }
+  },
+  "content": {
+    "channel": "stable",
+    "schemaVersions": [
+      1
+    ],
+    "catalogUrls": [
+      "https://verbissimo.akuma.in/catalog.json"
+    ]
+  },
+  "api": {
+    "baseUrl": null
+  },
+  "features": {
+    "levelPacks": true,
+    "recordedAudio": false,
+    "sync": false
+  },
+  "notice": null,
+  "links": {
+    "privacy": "https://verbissimo.akuma.in/privacy",
+    "support": "https://verbissimo.akuma.in/support"
+  }
+}
