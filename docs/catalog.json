@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "channel": "stable",
+  "generatedAt": "2026-11-14T21:13:59Z",
+  "levels": [
+    {
+      "code": "A1",
+      "title": {
+        "ru": "Начальный",
+        "en": "Beginner"
+      },
+      "description": {
+        "ru": "Самые нужные глаголы для первых разговоров",
+        "en": "The most useful verbs for your first conversations"
+      },
+      "order": 1,
+      "verbCount": 84,
+      "packs": {
+        "data": {
+          "version": 1,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v1/a1-data.json"
+          ],
+          "sha256": "f3bccb2b9984c3ae1faa3fa0b9d6f5d7d11e3445e9ad54afec7756d7439fa18b",
+          "size": 602809
+        },
+        "audio-it": {
+          "version": 1,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v1/a1-audio-it.zip"
+          ],
+          "sha256": "11919cfe6868a9528ad76ab3e0b703e32ceec263ad9b8472ef0bbbb929b2864b",
+          "size": 39383437
+        },
+        "audio-ru": {
+          "version": 1,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v1/a1-audio-ru.zip"
+          ],
+          "sha256": "3ee1fb13652ceb55a16a864c35623bf8b4d409913157953b0f771b63bb943397",
+          "size": 43744425
+        },
+        "audio-en": {
+          "version": 1,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v1/a1-audio-en.zip"
+          ],
+          "sha256": "989130a51073e2fb4ab20ad360e2eb89651831a71cd74c6400fd5a3062bcac9b",
+          "size": 38178264
+        }
+      }
+    },
+    {
+      "code": "A2",
+      "title": {
+        "ru": "Элементарный",
+        "en": "Elementary"
+      },
+      "description": {
+        "ru": "Повседневные ситуации, прошлое и планы",
+        "en": "Everyday situations, the past and plans"
+      },
+      "order": 2,
+      "verbCount": 76,
+      "packs": {
+        "data": {
+          "version": 1,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v1/a2-data.json"
+          ],
+          "sha256": "75f42f72298d3d02cbc3d382ed08328ce020afe989eb84e7053eb9b48354504d",
+          "size": 644992
+        },
+        "audio-it": {
+          "version": 1,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v1/a2-audio-it.zip"
+          ],
+          "sha256": "929a50e0445aea6bed3d85c91ce02fb309947a1ed3991be75a62fa6cfce29930",
+          "size": 40269378
+        },
+        "audio-ru": {
+          "version": 1,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v1/a2-audio-ru.zip"
+          ],
+          "sha256": "b50e8aca68dadf485088f77fcb77565aa380f8651d43e653e2636cce91f5bf7f",
+          "size": 45779238
+        },
+        "audio-en": {
+          "version": 1,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v1/a2-audio-en.zip"
+          ],
+          "sha256": "80cb111b810dc9d8e7704b5a871a136975eae61cc79a425de21cc6026771ae77",
+          "size": 40316046
+        }
+      }
+    }
+  ]
+}
