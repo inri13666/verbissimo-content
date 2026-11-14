@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "generatedAt": "2026-11-14T21:13:59Z",
+  "generatedAt": "2026-11-14T21:22:07Z",
   "ttlSeconds": 3600,
   "app": {
     "ios": {
@@ -33,7 +33,7 @@
   },
   "features": {
     "levelPacks": true,
-    "recordedAudio": false,
+    "recordedAudio": true,
     "sync": false
   },
   "notice": null,
