@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 2,
+  "contentVersion": 3,
   "channel": "stable",
-  "generatedAt": "2026-11-17T13:38:41Z",
+  "generatedAt": "2026-11-17T23:26:43Z",
   "packs": [
     {
       "id": "a1",
@@ -19,15 +19,26 @@
       },
       "preselected": true,
       "verbCount": 84,
-      "exampleCount": 2103,
+      "exampleCount": 3573,
+      "itemCounts": {
+        "noun": 207,
+        "adjective": 64,
+        "adverb": 56,
+        "interjection": 17,
+        "phrase": 25,
+        "article": 18,
+        "preposition": 19,
+        "pronoun": 55,
+        "conjunction": 15
+      },
       "files": {
         "data": {
-          "version": 2,
+          "version": 3,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v2/a1-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v3/a1-data.json"
           ],
-          "sha256": "9ee119dfe75dcb8a8768a5df53c9068a081585408592530b6391315edbb0a893",
-          "size": 620666
+          "sha256": "a16f38a470780a4622013687abf947230f46a449f991f1ee573d85828bd64e0b",
+          "size": 1026728
         }
       }
     },
@@ -45,15 +56,18 @@
         "en": "Everyday situations, the past and plans"
       },
       "verbCount": 76,
-      "exampleCount": 1950,
+      "exampleCount": 1961,
+      "itemCounts": {
+        "pronoun": 1
+      },
       "files": {
         "data": {
-          "version": 2,
+          "version": 3,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v2/a2-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v3/a2-data.json"
           ],
-          "sha256": "3954c07bc8568c82676e9e5cdc1dee3e0222571fa06d6b7edf1f0c0662b313fa",
-          "size": 668949
+          "sha256": "271b3d49dc8b63dc4b3a56889ece01076ce85dd869a6ad959a7f5eeb5fccf3ee",
+          "size": 672121
         }
       }
     },
@@ -70,15 +84,62 @@
         "en": "Shops and the market, the fitting room and the checkout, online orders, exchanges and returns"
       },
       "verbCount": 20,
-      "exampleCount": 283,
+      "exampleCount": 474,
+      "itemCounts": {
+        "noun": 21,
+        "adjective": 13,
+        "adverb": 10,
+        "interjection": 4,
+        "phrase": 7,
+        "article": 7,
+        "preposition": 7,
+        "pronoun": 14,
+        "conjunction": 5
+      },
       "files": {
         "data": {
-          "version": 2,
+          "version": 3,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v2/shopping-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v3/shopping-data.json"
           ],
-          "sha256": "1b0c686ffbd1b8416215198e33a0c307ebea3c2bcc10ecbe044f0c034e593d28",
-          "size": 124510
+          "sha256": "4297258d4586710e1e02174d57407897c3b199e66b9c61876e80802a1d6c192b",
+          "size": 192651
+        }
+      }
+    },
+    {
+      "id": "calendar",
+      "kind": "topic",
+      "order": 101,
+      "title": {
+        "ru": "Календарь",
+        "en": "Calendar"
+      },
+      "description": {
+        "ru": "Дни недели, месяцы и даты",
+        "en": "Days of the week, months and dates"
+      },
+      "verbCount": 23,
+      "exampleCount": 259,
+      "itemCounts": {
+        "noun": 42,
+        "adjective": 6,
+        "adverb": 10,
+        "interjection": 1,
+        "phrase": 5,
+        "article": 5,
+        "preposition": 9,
+        "pronoun": 1,
+        "conjunction": 4
+      },
+      "files": {
+        "data": {
+          "version": 3,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v3/calendar-data.json"
+          ],
+          "sha256": "0b757eaa3ce217435dd12147b7910d643ed1e8429516ab1b64ec701e8e8dfe00",
+          "size": 148768
         }
       }
     }
