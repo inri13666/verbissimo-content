@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "generatedAt": "2026-11-14T21:22:07Z",
+  "generatedAt": "2026-11-17T10:56:03Z",
   "ttlSeconds": 3600,
   "app": {
     "ios": {
@@ -25,7 +25,8 @@
       1
     ],
     "catalogUrls": [
-      "https://verbissimo.akuma.in/catalog.json"
+      "https://verbissimo.akuma.in/catalog.json",
+      "https://raw.githubusercontent.com/inri13666/verbissimo-content/master/docs/catalog.json"
     ]
   },
   "api": {
