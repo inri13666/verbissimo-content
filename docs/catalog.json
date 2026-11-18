@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 5,
+  "contentVersion": 6,
   "channel": "stable",
-  "generatedAt": "2026-11-18T14:51:27Z",
+  "generatedAt": "2026-11-18T18:41:49Z",
   "packs": [
     {
       "id": "a1",
@@ -19,7 +19,7 @@
       },
       "preselected": true,
       "verbCount": 84,
-      "exampleCount": 5089,
+      "exampleCount": 5174,
       "itemCounts": {
         "noun": 212,
         "adjective": 65,
@@ -33,12 +33,12 @@
       },
       "files": {
         "data": {
-          "version": 5,
+          "version": 6,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/a1-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v6/a1-data.json"
           ],
-          "sha256": "84b76bf31326df913c211e3326d415d18223ae573b5908887cde714b39ea6f46",
-          "size": 1345945
+          "sha256": "ef65b778dc89a1445800d31d4e2bc60e0fd0bf8444d721fc992c413f75a2e3e4",
+          "size": 1370762
         }
       }
     },
@@ -55,26 +55,26 @@
         "ru": "Повседневные ситуации, прошлое и планы",
         "en": "Everyday situations, the past and plans"
       },
-      "verbCount": 89,
-      "exampleCount": 3971,
+      "verbCount": 90,
+      "exampleCount": 4164,
       "itemCounts": {
-        "noun": 211,
-        "adjective": 61,
+        "noun": 229,
+        "adjective": 62,
         "adverb": 35,
         "interjection": 5,
         "phrase": 20,
-        "preposition": 9,
+        "preposition": 15,
         "pronoun": 12,
         "conjunction": 8
       },
       "files": {
         "data": {
-          "version": 5,
+          "version": 6,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/a2-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v6/a2-data.json"
           ],
-          "sha256": "fcf54d08c5bc878cc30a1744b6ac3764c74230e80eb7bd557acec4195cde9523",
-          "size": 1295596
+          "sha256": "515b001bd959f55713482188bf9b20a7421130846a2ea2d297f4980cd7a08f75",
+          "size": 1366507
         }
       }
     },
@@ -91,26 +91,26 @@
         "ru": "Мнения и чувства, работа и новости, то, что могло бы случиться",
         "en": "Opinions and feelings, work and news, what could happen"
       },
-      "verbCount": 116,
-      "exampleCount": 4334,
+      "verbCount": 129,
+      "exampleCount": 4850,
       "itemCounts": {
-        "noun": 289,
-        "adjective": 79,
+        "noun": 319,
+        "adjective": 97,
         "adverb": 28,
         "interjection": 5,
-        "phrase": 14,
-        "preposition": 10,
+        "phrase": 15,
+        "preposition": 11,
         "pronoun": 10,
         "conjunction": 14
       },
       "files": {
         "data": {
-          "version": 5,
+          "version": 6,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/b1-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v6/b1-data.json"
           ],
-          "sha256": "c81b71cbd6d08cfcb9148770fe2de8e4830368a701955d4bc7e05baee9898571",
-          "size": 1578823
+          "sha256": "091d425fdfcffa2466ae87352a2f750594296e8ca23195b4fa066d271fd99ebf",
+          "size": 1789684
         }
       }
     },
@@ -141,12 +141,12 @@
       },
       "files": {
         "data": {
-          "version": 5,
+          "version": 6,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/shopping-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v6/shopping-data.json"
           ],
-          "sha256": "323924af93e05a65161a80cdd260939c1262e27134983962eb081eeaed6d9dad",
-          "size": 372736
+          "sha256": "341aec8fac13c8fd9f3d08a3bbb17cd77567e5e8875b1be8b6ba6a92ebc89104",
+          "size": 373602
         }
       }
     },
@@ -279,12 +279,12 @@
       },
       "files": {
         "data": {
-          "version": 5,
+          "version": 6,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/math-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v6/math-data.json"
           ],
-          "sha256": "4a7142f2113b455db3522416f61c58ae6d019386ed63446dd446b511d0302dbe",
-          "size": 371408
+          "sha256": "a191a76a44adb28472ed9dc21ccf75c81f985d73b1099f3a136efdd82bc9e19d",
+          "size": 371618
         }
       }
     },
@@ -318,6 +318,39 @@
           ],
           "sha256": "8ee6a99e3948163e19c6846465a836639df2285e3620d18de78c37d0488fe9e6",
           "size": 360904
+        }
+      }
+    },
+    {
+      "id": "geography",
+      "kind": "study",
+      "order": 204,
+      "title": {
+        "ru": "География",
+        "en": "Geography"
+      },
+      "description": {
+        "ru": "Карта и стороны света, горы, равнины, реки и моря, климат и окружающая среда, регионы Италии, Европа и мир, экономика и население",
+        "en": "Maps and the cardinal points, mountains, plains, rivers and seas, climate and the environment, the regions of Italy, Europe and the world, economy and population"
+      },
+      "verbCount": 35,
+      "exampleCount": 787,
+      "itemCounts": {
+        "noun": 90,
+        "adjective": 35,
+        "adverb": 7,
+        "phrase": 1,
+        "preposition": 18,
+        "conjunction": 5
+      },
+      "files": {
+        "data": {
+          "version": 6,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v6/geography-data.json"
+          ],
+          "sha256": "10e1e3da054902be607de4b89f67b2db3c0c7e9d58c541b6d8c5a68f19ce6f8e",
+          "size": 397084
         }
       }
     }
