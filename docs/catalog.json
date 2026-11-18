@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 6,
+  "contentVersion": 7,
   "channel": "stable",
-  "generatedAt": "2026-11-18T18:41:49Z",
+  "generatedAt": "2026-11-18T20:42:49Z",
   "packs": [
     {
       "id": "a1",
@@ -19,9 +19,9 @@
       },
       "preselected": true,
       "verbCount": 84,
-      "exampleCount": 5174,
+      "exampleCount": 5344,
       "itemCounts": {
-        "noun": 212,
+        "noun": 215,
         "adjective": 65,
         "adverb": 56,
         "interjection": 17,
@@ -33,12 +33,12 @@
       },
       "files": {
         "data": {
-          "version": 6,
+          "version": 7,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v6/a1-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v7/a1-data.json"
           ],
-          "sha256": "ef65b778dc89a1445800d31d4e2bc60e0fd0bf8444d721fc992c413f75a2e3e4",
-          "size": 1370762
+          "sha256": "dc7bb86442244fb97aa9db415df7822f0902825d8dbe71df85176e6c231ac83f",
+          "size": 1425941
         }
       }
     },
@@ -55,26 +55,26 @@
         "ru": "Повседневные ситуации, прошлое и планы",
         "en": "Everyday situations, the past and plans"
       },
-      "verbCount": 90,
-      "exampleCount": 4164,
+      "verbCount": 99,
+      "exampleCount": 4786,
       "itemCounts": {
-        "noun": 229,
-        "adjective": 62,
-        "adverb": 35,
+        "noun": 291,
+        "adjective": 68,
+        "adverb": 36,
         "interjection": 5,
-        "phrase": 20,
+        "phrase": 21,
         "preposition": 15,
         "pronoun": 12,
         "conjunction": 8
       },
       "files": {
         "data": {
-          "version": 6,
+          "version": 7,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v6/a2-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v7/a2-data.json"
           ],
-          "sha256": "515b001bd959f55713482188bf9b20a7421130846a2ea2d297f4980cd7a08f75",
-          "size": 1366507
+          "sha256": "f67ff8bd1a6bb423dd18f309197bb667eba6a166dce0b63881e5a34d1a235c68",
+          "size": 1612953
         }
       }
     },
@@ -91,26 +91,26 @@
         "ru": "Мнения и чувства, работа и новости, то, что могло бы случиться",
         "en": "Opinions and feelings, work and news, what could happen"
       },
-      "verbCount": 129,
-      "exampleCount": 4850,
+      "verbCount": 169,
+      "exampleCount": 7124,
       "itemCounts": {
-        "noun": 319,
-        "adjective": 97,
+        "noun": 554,
+        "adjective": 154,
         "adverb": 28,
         "interjection": 5,
         "phrase": 15,
-        "preposition": 11,
+        "preposition": 15,
         "pronoun": 10,
         "conjunction": 14
       },
       "files": {
         "data": {
-          "version": 6,
+          "version": 7,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v6/b1-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v7/b1-data.json"
           ],
-          "sha256": "091d425fdfcffa2466ae87352a2f750594296e8ca23195b4fa066d271fd99ebf",
-          "size": 1789684
+          "sha256": "2de7f8a34b9e03cb044bdfd8ae4e16069b994ad200baaad7e9b2e2c8a554e6c1",
+          "size": 2752644
         }
       }
     },
@@ -141,12 +141,12 @@
       },
       "files": {
         "data": {
-          "version": 6,
+          "version": 7,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v6/shopping-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v7/shopping-data.json"
           ],
-          "sha256": "341aec8fac13c8fd9f3d08a3bbb17cd77567e5e8875b1be8b6ba6a92ebc89104",
-          "size": 373602
+          "sha256": "e75a20c4dccd5e77840a158d4c028489049cfee237f89d76b917302ee62fcad6",
+          "size": 374144
         }
       }
     },
@@ -212,12 +212,12 @@
       },
       "files": {
         "data": {
-          "version": 5,
+          "version": 7,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/italian-grammar-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v7/italian-grammar-data.json"
           ],
-          "sha256": "8405b78d362855cfb3c516188bbc8525a34f046be96ea81b0a4fc52c1c958cc6",
-          "size": 188947
+          "sha256": "0db3ad1811411eaa00564c7e3efe800e65b42600d69572d0ce0597c29f90115a",
+          "size": 189041
         }
       }
     },
@@ -245,12 +245,12 @@
       },
       "files": {
         "data": {
-          "version": 5,
+          "version": 7,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/exam-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v7/exam-data.json"
           ],
-          "sha256": "2467e376962dd9cdff6ce50dfb692a6289c35f1b1cb10e1c6548ca1906ace761",
-          "size": 255801
+          "sha256": "4be641766fd56bf32eb8e56d302f00386136d38e2606c2a86764a8925abf1aac",
+          "size": 256027
         }
       }
     },
@@ -312,12 +312,12 @@
       },
       "files": {
         "data": {
-          "version": 5,
+          "version": 7,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/history-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v7/history-data.json"
           ],
-          "sha256": "8ee6a99e3948163e19c6846465a836639df2285e3620d18de78c37d0488fe9e6",
-          "size": 360904
+          "sha256": "4994cd4dd600ea483c1ac80709a83a22758d60c5e94fa713e07a2bd2203dd27a",
+          "size": 361269
         }
       }
     },
@@ -345,12 +345,109 @@
       },
       "files": {
         "data": {
-          "version": 6,
+          "version": 7,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v6/geography-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v7/geography-data.json"
           ],
-          "sha256": "10e1e3da054902be607de4b89f67b2db3c0c7e9d58c541b6d8c5a68f19ce6f8e",
-          "size": 397084
+          "sha256": "e4cf0ef578ef451afe0fb606bb1f9950dbf6d76f0829946b7ad42d740aa4a665",
+          "size": 397340
+        }
+      }
+    },
+    {
+      "id": "science",
+      "kind": "study",
+      "order": 205,
+      "title": {
+        "ru": "Естествознание",
+        "en": "Science"
+      },
+      "description": {
+        "ru": "Вещество и его состояния, вода, воздух и энергия, Земля, растения, животные и пищевые цепи, тело человека, питание и здоровье, бактерии и вирусы, опыт",
+        "en": "Matter and its states, water, air and energy, the Earth, plants, animals and food chains, the human body, food and health, bacteria and viruses, and the experiment"
+      },
+      "verbCount": 40,
+      "exampleCount": 826,
+      "itemCounts": {
+        "noun": 115,
+        "adjective": 26,
+        "adverb": 11,
+        "phrase": 1,
+        "preposition": 7,
+        "conjunction": 9
+      },
+      "files": {
+        "data": {
+          "version": 7,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v7/science-data.json"
+          ],
+          "sha256": "10fcbc77aee6dc8aacff190ded4a2ddfde236a948eeea54027dfab140fa0affc",
+          "size": 423107
+        }
+      }
+    },
+    {
+      "id": "citizenship",
+      "kind": "study",
+      "order": 206,
+      "title": {
+        "ru": "Гражданство",
+        "en": "Citizenship"
+      },
+      "description": {
+        "ru": "Конституция и её принципы, права и обязанности, государство и ветви власти, коммуна и регион, выборы, Евросоюз, гражданство и документы, налоги и общественные услуги, труд, законность и окружающая среда, равенство и солидарность",
+        "en": "The Constitution and its principles, rights and duties, the State and its powers, the Comune and the Regione, elections, the European Union, citizenship and documents, taxes and public services, work, legality and the environment, equality and solidarity"
+      },
+      "verbCount": 34,
+      "exampleCount": 738,
+      "itemCounts": {
+        "noun": 113,
+        "adjective": 35,
+        "adverb": 3,
+        "preposition": 11,
+        "conjunction": 11
+      },
+      "files": {
+        "data": {
+          "version": 7,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v7/citizenship-data.json"
+          ],
+          "sha256": "587979f1e38303c3797f637d6ea6fe2c52a5a3e7978d02a17c7541a5c150d053",
+          "size": 412819
+        }
+      }
+    },
+    {
+      "id": "technology",
+      "kind": "study",
+      "order": 207,
+      "title": {
+        "ru": "Технология",
+        "en": "Technology"
+      },
+      "description": {
+        "ru": "Материалы, текстильные волокна и металлы, проектирование и устойчивые изделия, энергия и электричество, технический рисунок, отходы и переработка, машины, здания, транспорт и пищевые технологии, компьютер, файлы и цифровые инструменты, интернет, программирование и искусственный интеллект",
+        "en": "Materials, textile fibres and metals, design and sustainable products, energy and electricity, technical drawing, waste and recycling, machines, buildings, vehicles and food technology, the computer, files and digital tools, the internet, coding and artificial intelligence"
+      },
+      "verbCount": 43,
+      "exampleCount": 1143,
+      "itemCounts": {
+        "noun": 189,
+        "adjective": 40,
+        "adverb": 7,
+        "preposition": 11,
+        "conjunction": 7
+      },
+      "files": {
+        "data": {
+          "version": 7,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v7/technology-data.json"
+          ],
+          "sha256": "3368c32ed5e086c3992b30e596ab0f97c09e0214c5eb58aa9d705a67db701823",
+          "size": 611730
         }
       }
     }
