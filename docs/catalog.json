@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 3,
+  "contentVersion": 4,
   "channel": "stable",
-  "generatedAt": "2026-11-17T23:26:43Z",
+  "generatedAt": "2026-11-18T08:23:01Z",
   "packs": [
     {
       "id": "a1",
@@ -19,7 +19,7 @@
       },
       "preselected": true,
       "verbCount": 84,
-      "exampleCount": 3573,
+      "exampleCount": 4770,
       "itemCounts": {
         "noun": 207,
         "adjective": 64,
@@ -33,12 +33,12 @@
       },
       "files": {
         "data": {
-          "version": 3,
+          "version": 4,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v3/a1-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v4/a1-data.json"
           ],
-          "sha256": "a16f38a470780a4622013687abf947230f46a449f991f1ee573d85828bd64e0b",
-          "size": 1026728
+          "sha256": "f508cf28e516db837392803dc825e3ccd66fbea2bc0303b43a77920e546ea3a4",
+          "size": 1258331
         }
       }
     },
@@ -56,18 +56,61 @@
         "en": "Everyday situations, the past and plans"
       },
       "verbCount": 76,
-      "exampleCount": 1961,
+      "exampleCount": 3014,
       "itemCounts": {
-        "pronoun": 1
+        "noun": 119,
+        "adjective": 36,
+        "adverb": 26,
+        "interjection": 5,
+        "phrase": 12,
+        "preposition": 8,
+        "pronoun": 12,
+        "conjunction": 8
       },
       "files": {
         "data": {
-          "version": 3,
+          "version": 4,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v3/a2-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v4/a2-data.json"
           ],
-          "sha256": "271b3d49dc8b63dc4b3a56889ece01076ce85dd869a6ad959a7f5eeb5fccf3ee",
-          "size": 672121
+          "sha256": "22b762a150fab6bce98ddee43859c21a5e361ae76e3afe5e8c52643299e74f8a",
+          "size": 962402
+        }
+      }
+    },
+    {
+      "id": "b1",
+      "kind": "level",
+      "level": "B1",
+      "order": 3,
+      "title": {
+        "ru": "Средний",
+        "en": "Intermediate"
+      },
+      "description": {
+        "ru": "Мнения и чувства, работа и новости, то, что могло бы случиться",
+        "en": "Opinions and feelings, work and news, what could happen"
+      },
+      "verbCount": 85,
+      "exampleCount": 2730,
+      "itemCounts": {
+        "noun": 119,
+        "adjective": 40,
+        "adverb": 24,
+        "interjection": 5,
+        "phrase": 10,
+        "preposition": 9,
+        "pronoun": 10,
+        "conjunction": 13
+      },
+      "files": {
+        "data": {
+          "version": 4,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v4/b1-data.json"
+          ],
+          "sha256": "77eb2c5e1120ff960c57ea39fd9e827a0211156b1ab56d8768194ce57ee96ac4",
+          "size": 961949
         }
       }
     },
@@ -83,27 +126,27 @@
         "ru": "Магазины и рынок, примерочная и касса, заказы онлайн, обмен и возврат",
         "en": "Shops and the market, the fitting room and the checkout, online orders, exchanges and returns"
       },
-      "verbCount": 20,
-      "exampleCount": 474,
+      "verbCount": 27,
+      "exampleCount": 902,
       "itemCounts": {
-        "noun": 21,
-        "adjective": 13,
-        "adverb": 10,
-        "interjection": 4,
-        "phrase": 7,
-        "article": 7,
-        "preposition": 7,
-        "pronoun": 14,
-        "conjunction": 5
+        "noun": 74,
+        "adjective": 39,
+        "adverb": 27,
+        "interjection": 8,
+        "phrase": 16,
+        "article": 13,
+        "preposition": 25,
+        "pronoun": 47,
+        "conjunction": 22
       },
       "files": {
         "data": {
-          "version": 3,
+          "version": 4,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v3/shopping-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v4/shopping-data.json"
           ],
-          "sha256": "4297258d4586710e1e02174d57407897c3b199e66b9c61876e80802a1d6c192b",
-          "size": 192651
+          "sha256": "f534197da34d028e5933d6924c3088f1d41964aac7cc4104464a6aeb7bd61bde",
+          "size": 372435
         }
       }
     },
@@ -119,27 +162,27 @@
         "ru": "Дни недели, месяцы и даты",
         "en": "Days of the week, months and dates"
       },
-      "verbCount": 23,
-      "exampleCount": 259,
+      "verbCount": 24,
+      "exampleCount": 400,
       "itemCounts": {
-        "noun": 42,
-        "adjective": 6,
-        "adverb": 10,
+        "noun": 50,
+        "adjective": 11,
+        "adverb": 13,
         "interjection": 1,
-        "phrase": 5,
-        "article": 5,
-        "preposition": 9,
-        "pronoun": 1,
-        "conjunction": 4
+        "phrase": 6,
+        "article": 6,
+        "preposition": 11,
+        "pronoun": 4,
+        "conjunction": 7
       },
       "files": {
         "data": {
-          "version": 3,
+          "version": 4,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v3/calendar-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v4/calendar-data.json"
           ],
-          "sha256": "0b757eaa3ce217435dd12147b7910d643ed1e8429516ab1b64ec701e8e8dfe00",
-          "size": 148768
+          "sha256": "eff2f07f39a67e4fed338bb19821c4acbd47b5a4872cd252399df27308c66b2e",
+          "size": 191720
         }
       }
     }
