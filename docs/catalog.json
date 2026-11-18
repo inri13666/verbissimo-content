@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 4,
+  "contentVersion": 5,
   "channel": "stable",
-  "generatedAt": "2026-11-18T08:23:01Z",
+  "generatedAt": "2026-11-18T14:51:27Z",
   "packs": [
     {
       "id": "a1",
@@ -19,10 +19,10 @@
       },
       "preselected": true,
       "verbCount": 84,
-      "exampleCount": 4770,
+      "exampleCount": 5089,
       "itemCounts": {
-        "noun": 207,
-        "adjective": 64,
+        "noun": 212,
+        "adjective": 65,
         "adverb": 56,
         "interjection": 17,
         "phrase": 25,
@@ -33,12 +33,12 @@
       },
       "files": {
         "data": {
-          "version": 4,
+          "version": 5,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v4/a1-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/a1-data.json"
           ],
-          "sha256": "f508cf28e516db837392803dc825e3ccd66fbea2bc0303b43a77920e546ea3a4",
-          "size": 1258331
+          "sha256": "84b76bf31326df913c211e3326d415d18223ae573b5908887cde714b39ea6f46",
+          "size": 1345945
         }
       }
     },
@@ -55,26 +55,26 @@
         "ru": "Повседневные ситуации, прошлое и планы",
         "en": "Everyday situations, the past and plans"
       },
-      "verbCount": 76,
-      "exampleCount": 3014,
+      "verbCount": 89,
+      "exampleCount": 3971,
       "itemCounts": {
-        "noun": 119,
-        "adjective": 36,
-        "adverb": 26,
+        "noun": 211,
+        "adjective": 61,
+        "adverb": 35,
         "interjection": 5,
-        "phrase": 12,
-        "preposition": 8,
+        "phrase": 20,
+        "preposition": 9,
         "pronoun": 12,
         "conjunction": 8
       },
       "files": {
         "data": {
-          "version": 4,
+          "version": 5,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v4/a2-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/a2-data.json"
           ],
-          "sha256": "22b762a150fab6bce98ddee43859c21a5e361ae76e3afe5e8c52643299e74f8a",
-          "size": 962402
+          "sha256": "fcf54d08c5bc878cc30a1744b6ac3764c74230e80eb7bd557acec4195cde9523",
+          "size": 1295596
         }
       }
     },
@@ -91,26 +91,26 @@
         "ru": "Мнения и чувства, работа и новости, то, что могло бы случиться",
         "en": "Opinions and feelings, work and news, what could happen"
       },
-      "verbCount": 85,
-      "exampleCount": 2730,
+      "verbCount": 116,
+      "exampleCount": 4334,
       "itemCounts": {
-        "noun": 119,
-        "adjective": 40,
-        "adverb": 24,
+        "noun": 289,
+        "adjective": 79,
+        "adverb": 28,
         "interjection": 5,
-        "phrase": 10,
-        "preposition": 9,
+        "phrase": 14,
+        "preposition": 10,
         "pronoun": 10,
-        "conjunction": 13
+        "conjunction": 14
       },
       "files": {
         "data": {
-          "version": 4,
+          "version": 5,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v4/b1-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/b1-data.json"
           ],
-          "sha256": "77eb2c5e1120ff960c57ea39fd9e827a0211156b1ab56d8768194ce57ee96ac4",
-          "size": 961949
+          "sha256": "c81b71cbd6d08cfcb9148770fe2de8e4830368a701955d4bc7e05baee9898571",
+          "size": 1578823
         }
       }
     },
@@ -141,12 +141,12 @@
       },
       "files": {
         "data": {
-          "version": 4,
+          "version": 5,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v4/shopping-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/shopping-data.json"
           ],
-          "sha256": "f534197da34d028e5933d6924c3088f1d41964aac7cc4104464a6aeb7bd61bde",
-          "size": 372435
+          "sha256": "323924af93e05a65161a80cdd260939c1262e27134983962eb081eeaed6d9dad",
+          "size": 372736
         }
       }
     },
@@ -177,12 +177,147 @@
       },
       "files": {
         "data": {
-          "version": 4,
+          "version": 5,
           "urls": [
-            "https://github.com/inri13666/verbissimo-content/releases/download/content-v4/calendar-data.json"
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/calendar-data.json"
           ],
-          "sha256": "eff2f07f39a67e4fed338bb19821c4acbd47b5a4872cd252399df27308c66b2e",
-          "size": 191720
+          "sha256": "df7d268b9a34f5eacb7bbdbdf73edaca2a29539dccbd0a67e9383785569aef43",
+          "size": 192074
+        }
+      }
+    },
+    {
+      "id": "italian-grammar",
+      "kind": "study",
+      "order": 200,
+      "title": {
+        "ru": "Итальянский: грамматика и текст",
+        "en": "Italian: grammar and texts"
+      },
+      "description": {
+        "ru": "Части речи, предложение, виды текста и язык заданий по итальянскому",
+        "en": "Parts of speech, the sentence, kinds of text and the language of Italian class tasks"
+      },
+      "verbCount": 15,
+      "exampleCount": 403,
+      "itemCounts": {
+        "noun": 76,
+        "adjective": 15,
+        "adverb": 4,
+        "phrase": 4,
+        "article": 1,
+        "preposition": 2,
+        "pronoun": 2,
+        "conjunction": 6
+      },
+      "files": {
+        "data": {
+          "version": 5,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/italian-grammar-data.json"
+          ],
+          "sha256": "8405b78d362855cfb3c516188bbc8525a34f046be96ea81b0a4fc52c1c958cc6",
+          "size": 188947
+        }
+      }
+    },
+    {
+      "id": "exam",
+      "kind": "study",
+      "order": 201,
+      "title": {
+        "ru": "Экзамен и собеседование",
+        "en": "Exam and oral"
+      },
+      "description": {
+        "ru": "Экзамен Terza Media для взрослых — письменные работы, устное собеседование, комиссия, подготовка и связки рассуждения",
+        "en": "The Terza Media exam for adults — written tests, the oral, the commission, study skills and reasoning words"
+      },
+      "verbCount": 24,
+      "exampleCount": 507,
+      "itemCounts": {
+        "noun": 72,
+        "adjective": 28,
+        "adverb": 9,
+        "phrase": 7,
+        "preposition": 3,
+        "conjunction": 8
+      },
+      "files": {
+        "data": {
+          "version": 5,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/exam-data.json"
+          ],
+          "sha256": "2467e376962dd9cdff6ce50dfb692a6289c35f1b1cb10e1c6548ca1906ace761",
+          "size": 255801
+        }
+      }
+    },
+    {
+      "id": "math",
+      "kind": "study",
+      "order": 202,
+      "title": {
+        "ru": "Математика",
+        "en": "Maths"
+      },
+      "description": {
+        "ru": "Числа и четыре действия, дроби и проценты, меры, геометрия, декартова плоскость, статистика и язык математических задач",
+        "en": "Numbers and the four operations, fractions and percentages, measures, geometry, the Cartesian plane, statistics and the language of maths problems"
+      },
+      "verbCount": 30,
+      "exampleCount": 796,
+      "itemCounts": {
+        "noun": 121,
+        "adjective": 51,
+        "adverb": 19,
+        "phrase": 2,
+        "preposition": 9,
+        "pronoun": 9,
+        "conjunction": 11
+      },
+      "files": {
+        "data": {
+          "version": 5,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/math-data.json"
+          ],
+          "sha256": "4a7142f2113b455db3522416f61c58ae6d019386ed63446dd446b511d0302dbe",
+          "size": 371408
+        }
+      }
+    },
+    {
+      "id": "history",
+      "kind": "study",
+      "order": 203,
+      "title": {
+        "ru": "История",
+        "en": "History"
+      },
+      "description": {
+        "ru": "Эпохи и века, Древний Рим, Средние века, открытия, Рисорджименто, мировые войны, Республика и Конституция, рассказ о прошлом",
+        "en": "Periods and centuries, ancient Rome, the Middle Ages, discoveries, the Risorgimento, the world wars, the Republic and the Constitution, and telling about the past"
+      },
+      "verbCount": 32,
+      "exampleCount": 694,
+      "itemCounts": {
+        "noun": 112,
+        "adjective": 20,
+        "adverb": 8,
+        "phrase": 2,
+        "preposition": 12,
+        "conjunction": 9
+      },
+      "files": {
+        "data": {
+          "version": 5,
+          "urls": [
+            "https://github.com/inri13666/verbissimo-content/releases/download/content-v5/history-data.json"
+          ],
+          "sha256": "8ee6a99e3948163e19c6846465a836639df2285e3620d18de78c37d0488fe9e6",
+          "size": 360904
         }
       }
     }
